@@ -1,4 +1,4 @@
-First Week:
+First Week of Internship:
 
 Python program to add two numbers
 
@@ -18,20 +18,22 @@ Python program to check whether a number is Prime or not
 
 Python Program for n-th Fibonacci number.
 
-Second Week:
-Python program to flatten tuple of list to tuple
+Second Week of Internship:
 
-Python program to convert set into tuple and tuple into set
+1. Python program to flatten tuple of list to tuple
 
-Convert list of dictionary to tuple list python
+2. Python program to convert set into tuple and tuple into set
 
-Python program to sort tuple list by nth element of tuple
+3. Convert list of dictionary to tuple list python
 
-Python program to find tuple indices form other tuple list
+4. Python program to sort tuple list by nth element of tuple
 
-Convert dictionary value list to dictionary list python.
+5. Python program to find tuple indices form other tuple list
 
-Write a Python program to calculate the product, multiplying all the numbers in a given tuple.
+6. Convert dictionary value list to dictionary list python.
+
+Q1) Write a Python program to calculate the product, multiplying all the numbers in a given tuple.
+
 Original Tuple:
 
 (4, 3, 2, 2, -1, 18)
@@ -44,7 +46,8 @@ Original Tuple:
 
 Product - multiplying all the numbers of the said tuple: 27648
 
-Write a Python program to calculate the average value of the numbers in a given tuple of tuples.
+Q2) Write a Python program to calculate the average value of the numbers in a given tuple of tuples.
+
 Original Tuple:
 
 ((10, 10, 10, 12), (30, 45, 56, 45), (81, 80, 39, 32), (1, 2, 3, 4))
