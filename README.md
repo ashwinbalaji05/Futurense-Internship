@@ -18,7 +18,7 @@ Python program to check whether a number is Prime or not
 
 Python Program for n-th Fibonacci number.
 
-Second Week of Internship:
+#Second Week of Internship:
 
 1. Python program to flatten tuple of list to tuple
 
